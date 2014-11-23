@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Motivate Me!</string>
+    <string name="inspire_me">Motivate Me!</string>
+    <string name="text">Need some motivation? Press the button below :)
+    </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
